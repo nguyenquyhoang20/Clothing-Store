@@ -48,7 +48,7 @@ Built with a "security-first" mindset, addressing common web vulnerabilities:
 *   **Architecture Pattern:** Custom MVC-like structure separating configuration, business logic (`functions/`), and presentation (`pages/`).
 *   **Third-party UI Libraries:** AlertifyJS (for non-blocking toast notifications), BoxIcons.
 
-## ⚙️ Installation & Setup (Local Environment)
+##  Installation & Setup (Local Environment)
 
 1.  **Clone the repository:**
     ```bash
