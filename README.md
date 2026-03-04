@@ -9,7 +9,7 @@
 
 A full-stack, secure E-Commerce web application built with raw PHP and MySQL, designed to provide a comprehensive and safe shopping experience. This project emphasizes modern security practices (preventing OWASP Top 10 vulnerabilities), optimized database interactions (N+1 query resolution), and a fully functional shopping pipeline from product discovery to order tracking.
 
-## 🚀 Key Features & Highlights (For CV / Resume)
+## Key Features & Highlights 
 
 ### 1. Robust Security Implementation (OWASP Standards)
 Built with a "security-first" mindset, addressing common web vulnerabilities:
@@ -40,7 +40,7 @@ Built with a "security-first" mindset, addressing common web vulnerabilities:
 *   **Order Management:** Interface to view, process, and update the status of customer orders.
 *   **Audit Logging:** Custom auditing system to track and log sensitive administrative actions (who did what and when) for accountability.
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 *   **Backend:** PHP 7.4+ (Raw/Vanilla PHP)
 *   **Database:** MySQL (Relational Database Design)
