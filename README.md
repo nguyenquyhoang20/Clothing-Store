@@ -1,4 +1,4 @@
-# N10 Clothing Store (E-Commerce Platform)
+# Clothing Store (E-Commerce Platform)
 
 ![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
